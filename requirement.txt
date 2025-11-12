@@ -5,4 +5,4 @@ joblib
 plotly
 fpdf
 openpyxl
-scikit-Learn
+scikit-learn
